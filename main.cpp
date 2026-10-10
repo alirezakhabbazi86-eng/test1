@@ -60,6 +60,8 @@ int main()
                                                                                                                                                                                                                                                                                                                                                                                                                                     delete[] p;
 
 
-                                  cout yes                                                                                                                                                                                                                                                                                                                                                                                                      return 0;
+                                  cout yes
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                        return 0;
                                                                                                                                                                                                                                                                                                                                                                                                                                         }
 
