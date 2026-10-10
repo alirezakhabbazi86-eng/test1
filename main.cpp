@@ -60,7 +60,10 @@ int main()
                                                                                                                                                                                                                                                                                                                                                                                                                                     delete[] p;
 
 
-                                  cout yes
+                                  cout<<" 00000000yes";
+
+
+
 
                                                                                                                                                                                                                                                                                                                                                                                                                                         return 0;
                                                                                                                                                                                                                                                                                                                                                                                                                                         }
