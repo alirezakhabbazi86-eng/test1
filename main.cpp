@@ -24,7 +24,7 @@ int main()
                                                                                                         if(ct < best) {
                                                                                                                     best = ct;
                                                                                                                             }
-                                                                                                                                }
+                    }
 
                                                                                                                                         // پیدا کردن اعدادی با کمترین تکرار
                                                                                                                                             for(int i = 0; i < n; i++) {
